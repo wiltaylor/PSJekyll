@@ -6,7 +6,7 @@ Simple powershell module for interacting with Jekyll.
 
 ## Installation
  - Extract the module into the a Jekyll folder in your modules directory (e.g. %userprofile%\documents\WindowsPowerShell\Modules\Jekyll)
- - Download [Portable Jekyll](https://github.com/madhur/PortableJekyll) and place it in a folder called portabl-jekyll in the folder jekyll module folder created above.
+ - Download [Portable Jekyll](https://github.com/madhur/PortableJekyll) and place it in a folder called Jekyll-Portable in the folder jekyll module folder created above.
  
 ## Usage
 Simply load the module with Import-Module Jekyll.
